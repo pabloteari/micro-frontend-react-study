@@ -4,7 +4,7 @@ micro-frontend is a project to study the resources of the micro-front end
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [npm] to install all micro.
 
 ```bash
 #run in /container, /microFrontOne and /microFrontTwo
